@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/art/hero.svg" width="100%" alt="Vishishtaa Pandit — Computational Biology · Bioinformatics · Translational Medicine">
+<img src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/hero.svg" width="100%" alt="Vishishtaa Pandit — Computational Biology · Bioinformatics · Translational Medicine">
 </div>
 
 &nbsp;
