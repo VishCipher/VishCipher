@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/03-INSTRUMENTS-fbbf24?style=flat-square&labelColor=0b0f14&color=0b0f14)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/art/gel.svg" width="100%" alt="Toolkit shown as a gel electrophoresis run: Compute, NGS, Structural, and Systems lanes">
+<img src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/gel.svg" width="100%" alt="Toolkit shown as a gel electrophoresis run: Compute, NGS, Structural, and Systems lanes">
 </div>
 
 &nbsp;
