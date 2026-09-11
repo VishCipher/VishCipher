@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/hero-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/hero-dark.svg">
   <img alt="Vishishtaa Pandit — Computational Biology · Bioinformatics · Translational Medicine" src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/hero-light.svg" width="100%">
 </picture>
 
@@ -34,7 +34,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/plasmid-dark.svg">
-  <img alt="Toolkit as a plasmid map: Compute, NGS, Structural, Systems features" src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/plasmid-light.svg" width="520">
+  <img alt="Toolkit as a plasmid map: Programming, NGS, Structural Biology, Systems features" src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/plasmid-light.svg" width="520">
 </picture>
 </div>
 
@@ -46,5 +46,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/signoff-dark.svg">
-  <img alt="Vishishtaa Pandit, MMXXVI" src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/signoff-light.svg" width="100%">
+  <img alt="Vishishtaa Pandit, MMXXVI" src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/signoff-dark.svg" width="100%">
 </picture>
