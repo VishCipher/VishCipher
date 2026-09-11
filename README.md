@@ -40,7 +40,7 @@
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/vishishtaa-pandit28/) · [Email](mailto:vishishtaapandit12345@gmail.com)**
+  **[LinkedIn](https://www.linkedin.com/in/vishishtaa-pandit28/) · [Email](mailto:vishishtaapandit12345@gmail.com)**
 
 </div>
 
