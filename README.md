@@ -3,11 +3,9 @@
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/label-work-dark.svg">
-  <img alt="01 Selected Work" src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/label-work-light.svg" width="100%">
-</picture>
 
+<picture>
+   <source media="(prefers-color-scheme: dark)"    srcset="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/label-work-dark.svg">
 
 <img src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/label-work.svg" width="100%" alt="01 Selected Work">
 
