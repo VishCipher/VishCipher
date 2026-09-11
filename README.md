@@ -34,7 +34,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/plasmid-light.svg">
-  <img alt="Toolkit as a plasmid map: Programming, NGS, Structural Biology, Systems features" src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/plasmid-light.svg" width="520">
+  <img alt="Toolkit as a plasmid map: Programming, NGS, Structural Biology, Systems features" src="https://raw.githubusercontent.com/VishCipher/VishCipher/main/visuals/plasmid-dark.svg" width="520">
 </picture>
 </div>
 
